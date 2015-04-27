@@ -17,7 +17,7 @@ gulp.task('react:compile', function(callback) {
       },
       output: {
         libraryTarget: "var",
-        library: "reactcal",
+        library: "Reactcal",
         filename: buildDir + '/' + package.name + '.js'
       },
       externals: {

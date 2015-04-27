@@ -4,7 +4,7 @@
   border: 1px solid black;
 }
 .reactcal-container .header {
-  display: -webkit-box;
+  display: -webkit-flex;
   display: -ms-flexbox;
   display: -moz-box;
   display: flex;
@@ -47,7 +47,7 @@
   flex-grow: 1;
 }
 .reactcal-container .week-row {
-  display: -webkit-box;
+  display: -webkit-flex;
   display: -ms-flexbox;
   display: -moz-box;
   display: flex;
@@ -63,7 +63,7 @@
   background-color: white;
 }
 .reactcal-container .dates-row {
-  display: -webkit-box;
+  display: -webkit-flex;
   display: -ms-flexbox;
   display: -moz-box;
   display: flex;
